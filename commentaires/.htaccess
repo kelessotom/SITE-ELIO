@@ -1,0 +1,4 @@
+AuthName "Veillez vous identifier"
+AuthType Basic
+AuthUserFile "C:\xampp\htdocs\SITE ELIO\commentaires\.htpasswd"
+Require valid-user
